@@ -78,5 +78,5 @@ columns and measures: - `Month-Year` -
 
 **Vaishnavi Chamatkar**\
 📧 vaishnavichamatkar@gmail.com\
-🔗 [LinkedIn Profile](#)\
+🔗 https://www.linkedin.com/in/vaishnavi-chamatkar-b23176296\
 📍 Maharashtra, India
